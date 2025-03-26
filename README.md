@@ -1,4 +1,4 @@
-![[README-gabriel-rabhi.png]]
+![](attachments/README-gabriel-rabhi.png)
 # Who I am ?
 ## A resume
 Capable of business, strategic and technological analysis, I'm what you'd call an atypical developer. Creator of a video game at the age of 18 (Mindscape Bordeaux, Pearson group at the time), passionate about R&D, I'm self-taught in programming (Pascal, C, C++, C#), software architecture and framework design. Creative, I was also a 2D and 3D computer graphics designer (bitmap, vector and modeling, rendering, animation under Maya and ex-Alias), in multimedia (sound, video, motion graphics) and incidentally, a composer (home-studio). These diverse skills provide me with a valuable general culture in what has become my main activity : software architecture and development. With a solid psychology background, I'm viewed as a smooth manager able to to write clean, expressive and consistent well illustrated documentations that drive developers to understandable goals.
