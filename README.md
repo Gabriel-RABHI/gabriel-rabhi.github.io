@@ -7,7 +7,7 @@ I've been self-employed for a long time and have worked with several contractors
 
 Getting out of my comfort zone, taking on challenges and deploying bold approaches is a real driving force for me. Since 2010, one of my research topics has been a high-performance persistent object repository for .Net : "Big Memory" and "HPC". In the past : distributed database, graphical interface, 3D engine and between 2014 and 2020 a Full Stack Web HTML5-JS-CSS social networking engine, a proprietary Web server, proprietary SGDB NoSQL and Graph, text indexing (WAH), lock-free concurrency processing, internet supervision and data replication in Edge Computing, etc. Although I'm not a mathematician, I have a keen sense of what can be done with a computer, and I'm creative in the solutions I implement, never hesitating to challenge the state of the art.
 
-Few past projects descriptions : [[Past-Projects]]
+Few past projects descriptions : [Past-Projects](Past-Projects.md)
 ## Skills
 
 - **Programming:** .NET developer, C # language - .Net Core, Web, Blazor, WinForm, WPF. Experience with C, C ++ and Pascal. Managed and unmanaged languages.
@@ -38,4 +38,4 @@ Few past projects descriptions : [[Past-Projects]]
 - I have been a musician from a very young age. I studied the violin, I play the piano and I am a composer. Music is a second language for me. I have sometimes performed as a composer for my customers. I master the basics of Home Studio.
 - I’m learning about political systems and energy future problems, collapsology.
 
-![[README-timeline.png]]
+![](attachments/README-timeline.png)
