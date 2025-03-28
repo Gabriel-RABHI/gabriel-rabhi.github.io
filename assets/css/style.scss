@@ -1,0 +1,17 @@
+@import "{{ site.theme }}";
+
+
+footer {
+	display : none;
+}
+
+.wrapper {
+	width: 1080px;
+	margin: 0 auto;
+}
+
+section {
+	width: 780px;
+	float: right;
+	padding-bottom: 50px;
+}
